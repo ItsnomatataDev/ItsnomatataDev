@@ -39,6 +39,7 @@ About Me
 - Vercel
 - Railway
 - Git & GitHub
+- Supabase
 
 ---
 
@@ -65,7 +66,7 @@ About Me
 
 ## 📫 Connect With Me
 
-- 📧 Email: mpofu7085@gmail.com
+- 📧 Email: thando@itsnomaatata.com
 - 💼 LinkedIn: (Add your link here)
 
 ---
