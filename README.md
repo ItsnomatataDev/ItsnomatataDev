@@ -1,80 +1,158 @@
-<h1 align="center">Hi 👋, I'm Thando Mpofu</h1>
-<h3 align="center">Fullstack Developer | AI & Automation Builder | Zimbabwe 🇿🇼</h3>
+<div align="center">
 
-About Me
+# IT's No Matata
 
-- 💻 Fullstack Developer (React, Node.js, Supabase)
-- 📱 Mobile Developer (React Native + Expo)
-- 🤖 Building AI-powered systems & automation tools
-- 🌍 Based in Victoria Falls, Zimbabwe
-- 🧠 Currently building **ITs Nomatata Workspace Platform**
-- ⚡ Passionate about solving real-world problems with tech
+Modern Software Engineering • AI Systems • Digital Infrastructure
 
- What I’m Working On
+Victoria Falls, Zimbabwe
 
-- 🤖 AI Workspace Assistant (role-based intelligence)
-- ⚙️ Automation systems for business workflows
-- 📊 Campaign & Reporting platforms
-- 📱 Mobile apps with offline-first features
-- 🌍 Tech platform for Zimbabwean youth
+[Website](https://itsnomatata.com) • [Codex Platform](https://codex.itsnomatata.com) • [Instagram](https://www.instagram.com/itsnomatata/) • [GitHub](https://github.com/thando544)
 
- Tech Stack
-
-### 💻 Frontend
-- React.js
-- Next.js
-- Tailwind CSS
-- JavaScript / TypeScript
-
-### ⚙️ Backend
-- Node.js + Express
-- Supabase (PostgreSQL, Auth, Realtime)
-- Firebase
-
-### 📱 Mobile
-- React Native
-- Expo
-
-### ☁️ Tools & Deployment
-- Vercel
-- Railway
-- Git & GitHub
-- Supabase
+</div>
 
 ---
 
-## 📊 GitHub Stats
+## Overview
+
+IT's No Matata is a technology company focused on building scalable digital infrastructure, AI-powered systems, and modern operational platforms for businesses across Africa.
+
+The company develops software products and internal systems that combine realtime architecture, automation, modern UI engineering, and AI-assisted workflows to improve how organizations operate.
+
+Areas of focus include:
+
+* AI Systems & Automation
+* Web Applications
+* Mobile Applications
+* Operational Platforms
+* Realtime Infrastructure
+* Workflow Management
+* Tourism Technology
+* Digital Operations
+
+---
+
+## Codex Workspace Platform
+
+### https://codex.itsnomatata.com
+
+Codex is the company’s internal operations and workspace platform currently under active development.
+
+The platform is designed to support:
+
+* Organization Management
+* Role-Based Workspaces
+* AI-Assisted Operations
+* Realtime Communication
+* Workflow Automation
+* Task & Board Management
+* Mobile-first Operations
+* Team Collaboration Systems
+
+Built using modern scalable technologies and realtime infrastructure.
+
+---
+
+## Engineering
+
+The platform architecture is centered around performance, scalability, and operational efficiency.
+
+### Frontend
+
+* React
+* Next.js
+* TypeScript
+* Tailwind CSS
+
+### Mobile
+
+* React Native
+* Expo
+* Expo Router
+
+### Backend & Infrastructure
+
+* Supabase
+* PostgreSQL
+* Node.js
+* Firebase
+* Realtime Systems
+
+### Deployment & Tooling
+
+* Cloudflare
+* Vercel
+* GitHub
+* Modern CI/CD Workflows
+
+---
+
+## Product Direction
+
+Current product and research focus includes:
+
+* AI-powered workspace systems
+* Business automation infrastructure
+* Realtime operational software
+* Tourism & hospitality technology
+* Mobile-first field systems
+* Offline-capable applications
+* African digital infrastructure
+
+---
+
+## Lead Developer
+
+### Thando Mpofu
+
+Software Developer & AI Engineer
+
+Focused on building scalable systems across:
+
+* AI Engineering
+* Fullstack Development
+* Mobile Systems
+* SaaS Architecture
+* Realtime Platforms
+* Workflow Automation
+* Infrastructure Design
+
+GitHub:
+https://github.com/thando544
+
+---
+
+## Platform Preview
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thando544&show_icons=true&theme=tokyonight" />
+  <img src="https://res.cloudinary.com/dnqjax5ut/image/upload/v1778756742/codex_pughai.png" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thando544&theme=tokyonight" />
+  <img src="https://res.cloudinary.com/dnqjax5ut/image/upload/v1778756741/codex.itsnomatata.com_-_thando_mpofu_a5zmxq.png" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://res.cloudinary.com/dnqjax5ut/image/upload/v1778756740/codex.itnomatata.com_-_thando_mpfo_ahpnwe.png" width="100%" />
 </p>
 
 ---
 
-## 🌐 Projects
+## Contact
 
-- 🚀 AI Workspace Platform (ITs Nomatata)
-- 🌍 Tourism Website (Awande African Expeditions)
-- 🛒 E-commerce Platforms (Multiple)
-- 📱 Mobile Safety App (Wild Safety Network)
+Website
+https://itsnomatata.com
 
----
+Instagram
+https://www.instagram.com/itsnomatata/
 
-## 📫 Connect With Me
+Email
+[info@itsnomatata.com](mailto:info@itsnomatata.com)
 
-- 📧 Email: thando@itsnomaatata.com
-- 💼 LinkedIn: (Add your link here)
-
----
-
-## ⚡ Fun Fact
-
-> I don’t just write code — I build systems that solve real problems 🚀
+Location
+Victoria Falls, Zimbabwe
 
 ---
 
-⭐ *Always building. Always learning.*
+## Vision
+
+Building modern African technology systems through scalable engineering, intelligent automation, and operational software infrastructure.
