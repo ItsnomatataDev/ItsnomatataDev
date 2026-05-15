@@ -132,10 +132,51 @@ https://github.com/thando544
 </p>
 
 <p align="center">
-  <img src="https://res.cloudinary.com/dnqjax5ut/image/upload/v1778756740/codex.itnomatata.com_-_thando_mpfo_ahpnwe.png" width="100%" />
+  <img src="https://res.cloudinary.com/dnqjax5ut/image/upload/v1778831613/codex-Itsnomatata_o9zrby.png" width="100%" />
 </p>
 
+
+<p align="center">
+  <img src="https://res.cloudinary.com/dnqjax5ut/image/upload/v1778831613/codex-itsnomatata1_ceujjc.png" />
+</p>
+
+<p align="center">
+  <img src="https://res.cloudinary.com/dnqjax5ut/image/upload/v1778831612/codex-itsnomatata.com_cdu9gc.png" />
+</p>
+
+<p align="center">
+  <img src="https://res.cloudinary.com/dnqjax5ut/image/upload/v1778831612/codex2_imtjdy.png" />
+</p>
+
+<p align="center">
+  <img src="https://res.cloudinary.com/dnqjax5ut/image/upload/v1778831611/codex_lyfazs.png" />
+</p>
+
+<p align="center">
+  <img src="https://res.cloudinary.com/dnqjax5ut/image/upload/v1778831611/codex-cards_msxewg.png" />
+</p>
+
+<p align="center">
+  <img src="https://res.cloudinary.com/dnqjax5ut/image/upload/v1778831609/itsnomatata-codex_heqjcb.png" />
+</p>
+
+<p align="center">
+  <img src="https://res.cloudinary.com/dnqjax5ut/image/upload/v1778831609/codex-card-mordal_r7n2dp.png" />
+</p>
+
+<p align="center">
+  <img src="https://res.cloudinary.com/dnqjax5ut/image/upload/v1778831609/codex-leaves_ecu71w.png" />
+</p>
+
+<p align="center">
+  <img src="https://res.cloudinary.com/dnqjax5ut/image/upload/v1778831609/codex-boards_irp8vf.png" />
+</p>
+
+<p align="center">
+  <img src="https://res.cloudinary.com/dnqjax5ut/image/upload/v1778831609/coedx_ITsnomatata_pdlcvx.png" />
+</p>
 ---
+
 
 ## Contact
 
